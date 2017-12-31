@@ -10,9 +10,9 @@
 
 I lead an effort with [eclipse2017.org](www.eclipse2017.org), Dr. David Sederberg, and the Purdue Astronomy Club to distribute 10,000 solar eclipse glasses to local schools, libraries, and students. We wrote grants, rallied volunteers, and gathered our solar-filtered telescopes to get the most out of the partial eclipse.
 
-Images:
+![eclipse 2017](https://user-images.githubusercontent.com/13906989/34464566-ea67bfaa-ee52-11e7-97ae-ac62fe2a4e4b.png)
 
-
+Purdue President Mitch Daniels views the eclipse alongside students. Image Credit: Purdue University.
 
 Media Links:
 
