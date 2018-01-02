@@ -20,7 +20,7 @@ Simulated images coming soon
 
 Coming soon
 
-### WIYN-3.5 meter Telescope
+### WIYN 3.5-meter Telescope
 
 ["Weak Lensing in Clusters of Galaxies with PhoSim"](https://www.noao.edu/noaoprop/abstract.mpl?2017B-0824)
 
