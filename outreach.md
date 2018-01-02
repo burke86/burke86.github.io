@@ -1,8 +1,8 @@
-[Home](index.md)  [About](about.md)  [Research](research.md)  [Cirriculum Vitae](cv.md)  [Outreach](outreach.md) 
+[Home](index.md)  //  [About](about.md)  //  [Research](research.md)  //  [Cirriculum Vitae](cv.md)  //  [Outreach](outreach.md) 
 
 # Outreach
 
-# ["Great American Solar Eclipse" of 2017](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017)
+## ["Great American Solar Eclipse" of 2017](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017)
 
 I lead an effort with [eclipse2017.org](www.eclipse2017.org), Dr. David Sederberg, and the Purdue Astronomy Club to distribute 10,000 solar eclipse glasses to local schools, libraries, and students. We wrote grants, rallied volunteers, and gathered our solar-filtered telescopes to get the most out of the partial eclipse.
 
