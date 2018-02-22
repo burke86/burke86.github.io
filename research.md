@@ -12,9 +12,14 @@ I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Pur
 
 I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators, at the University of Arizona, lead by [Professor Marcia J. Rieke](https://www.as.arizona.edu/people/faculty/marcia-j-rieke). I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
 
+![image](https://user-images.githubusercontent.com/13906989/36521126-1ab6aa8e-1763-11e8-8855-387c871b4ca8.png)
+
+JWST/NIRCam SW (left) and LW (right) channel optical models in PhoSim.
+
 ![image](https://user-images.githubusercontent.com/13906989/36521061-c1494042-1762-11e8-85d5-f518a3571f89.png)
 
-![image](https://user-images.githubusercontent.com/13906989/36521126-1ab6aa8e-1763-11e8-8855-387c871b4ca8.png)
+Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim.
+
 
 Simulated images coming soon
 Website coming soon
