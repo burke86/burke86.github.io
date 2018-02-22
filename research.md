@@ -2,7 +2,7 @@
 
 # Research
 
-My scientific interests live at the intersection of computation, observation, and instrumentation.
+
 
 ## Undergraduate Work
 
@@ -10,7 +10,7 @@ I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Pur
 
 ### James Webb Space Telescope
 
-I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators, [Dr. Eiichi Egami](https://www.as.arizona.edu/people/faculty/eiichi-egami) and [Professor Marcia J. Rieke](https://www.as.arizona.edu/people/faculty/marcia-j-rieke) at the University of Arizona and Steward Observatory. I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
+I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators, at the University of Arizona, lead by [Professor Marcia J. Rieke](https://www.as.arizona.edu/people/faculty/marcia-j-rieke). I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
 
 Pictures coming soon
 
@@ -24,7 +24,7 @@ Coming soon
 
 ["Weak Lensing in Clusters of Galaxies with PhoSim"](https://www.noao.edu/noaoprop/abstract.mpl?2017B-0824)
 
-I completed two nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. We experimented with LSST-like survey techniques (short exposures, comparison with physics-based computer models). We observed two clusters of galaxies, Abell 115 and Abell 2390:
+I completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. We experimented with LSST-like survey techniques (short exposures, comparison with physics-based computer models). We observed three clusters of galaxies, Abell 115, Abell 2390, and Abell 611:
 
 Pretty pictures coming soon!
 
@@ -32,4 +32,4 @@ I modeled the WIYN/ODI optical system in PhoSim:
 
 ![wiyn2](https://user-images.githubusercontent.com/13906989/34473846-a31e3b26-ef45-11e7-806e-fc6b0bb5d840.jpg)
 
-Image of WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona. Rays from a star are shown propogating through the telescope mirrors (dark grey), camera lenses and atmospheric dispersion corrector (blue), filter (yellow), and the focal plane (dark grey).
+Image of the WIYN 3.5-meter Telescope PhoSim model. Rays from a star are shown propogating through the telescope mirrors, camera lenses and atmospheric dispersion corrector, filter, and the focal plane. The full CCD array is also modeled, but not shown in this diagram.
