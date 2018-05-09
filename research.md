@@ -20,9 +20,7 @@ JWST/NIRCam SW (left) and LW (right) channel optical models in PhoSim. Rays from
 
 Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim.
 
-
-Simulated images coming soon
-Website coming soon
+See the [NIRCam-PhoSim website](https://fenrir.as.arizona.edu/phosim/) for details.
 
 ### Large Synoptic Survey Telescope
 
@@ -36,8 +34,8 @@ I completed multiple nights of observations at the WIYN 3.5-meter Telescope at K
 
 Pretty pictures coming soon!
 
-I modeled the WIYN/ODI optical system in PhoSim:
+I modeled the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics:
 
-![wiyn2](https://user-images.githubusercontent.com/13906989/34473846-a31e3b26-ef45-11e7-806e-fc6b0bb5d840.jpg)
+![wiyn](https://user-images.githubusercontent.com/13906989/39836036-1bb9fb6a-53a0-11e8-8c9e-3c8d03ae5167.png)
 
-Image of the WIYN 3.5-meter Telescope PhoSim model. Rays from a star are shown propogating through the telescope mirrors, camera lenses and atmospheric dispersion corrector, filter, and the focal plane. The full CCD array is also modeled, but not shown in this diagram.
+Image of the WIYN 3.5-meter Telescope PhoSim model. Rays from a star are shown propogating through the telescope mirrors, camera lenses and atmospheric dispersion corrector, filter, and the partially-populated ODI focal plane.
