@@ -1,4 +1,4 @@
-[Home](index.md)  //  [About](about.md)  //  [Research](research.md)  //  [Cirriculum Vitae](cv.md)  //  [Outreach](outreach.md) 
+[Home](index.md)  //  [Research](research.md)  //  [Cirriculum Vitae](cv.md)  //  [Outreach](outreach.md) 
 
 # Colin J. Burke
 
