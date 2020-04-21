@@ -30,7 +30,7 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 
 ![phl 293b spectra](https://user-images.githubusercontent.com/13906989/79822723-7b2a8900-8357-11ea-8879-e4af3af82d6a.png)
 
-**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, G. Hengxiao, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a blue compact dwarf galaxy." [ApJ Letters accepted (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200212369B/abstract}).
+**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, G. Hengxiao, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters accepted (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200212369B/abstract}).
 
 ### Machine Learning 
 
