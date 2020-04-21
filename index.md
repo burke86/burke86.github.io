@@ -25,6 +25,8 @@ I am working Dark Energy Survey images to find long-duration variability in low-
 
 H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [Submitted to MRNAS](https://ui.adsabs.harvard.edu/abs/2020arXiv200310457G/abstract).
 
+Stay tuned for exciting new results!
+
 ### Other Time-Domian Astrophysics
 
 During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Dr. Vivienne Baldassare to solve the mystery of this perplexing galaxy. We concluded the variability, despite appearing similar to that of an AGN, is actually due to a massive outburst of a luminous blue variable star, resmbing the Type IIn supernova-like event of SDSS1133.
@@ -38,6 +40,8 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 ### Machine Learning 
 
 I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation.
+
+![astro r-cnn](https://user-images.githubusercontent.com/13906989/79823446-7961c500-8359-11ea-8388-536e318309f2.png)
 
 **C. J. Burke**, P. D. Aleo, X. Liu, J. R. Peterson, G. H. Sembroski, Y.-C. Chen, Y.-Y. Lin. "Deblending and Classifying Astronomical Sources with Mask R-CNN Deep Learning." [MNRAS 490, 3953 (2019)](https://doi.org/10.1093/mnras/stz2845).
 
