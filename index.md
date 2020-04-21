@@ -1,8 +1,6 @@
-# Colin J. Burke
+Illinois Graduate Survey Science Fellow 2019-2020, National Center for Supercomputing Applications (NCSA).
 
 [UIUC page](https://astro.illinois.edu/directory/profile/colinjb2)
-
-Illinois Graduate Survey Science Fellow 2019-2020, National Center for Supercomputing Applications (NCSA).
 
 Research Interests: survey science, active galactic nuclei
 
@@ -14,7 +12,7 @@ Advisor: Professor Xin Liu
 
 ### Low-mass AGN Variability
 
-I am working Dark Energy Survey images to find long-duration variability in low-mass galaxies. The variability-selection technique has several advantages, such as finding AGN misssed by traditional techniques. See our paper on the lowest-mass AGN found from optical at redshift 0.82.
+I am working with Dark Energy Survey images to find long-duration variability in low-mass galaxies. The variability-selection technique has several advantages, such as finding AGN misssed by traditional techniques. See our paper on the lowest-mass AGN found from optical at redshift 0.82.
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
