@@ -2,7 +2,7 @@
 
 [UIUC page](https://astro.illinois.edu/directory/profile/colinjb2)
 
-Illinois Graduate Survey Science Fellow, National Center for Supercomputing Applications (NCSA).
+Illinois Graduate Survey Science Fellow 2019-2020, National Center for Supercomputing Applications (NCSA).
 
 Research Interests: survey science, active galactic nuclei
 
