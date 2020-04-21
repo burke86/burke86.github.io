@@ -9,13 +9,11 @@ University of Illinois at Urbana–Champaign
 
 Research Interests: survey science, active galactic nuclei
 
-[Curriculum Vitae](ColinBurkeCV.pdf) (updated July 2018)
+[Curriculum Vitae](CV_updated.pdf) (updated April 2020)
 
 Advisor: Professor Xin Liu
 
 # Research
-
-
 
 ### Low-mass AGN Variability
 
