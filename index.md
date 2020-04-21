@@ -1,11 +1,8 @@
 # Colin J. Burke
 
-Graduate Student
+[UIUC page](https://astro.illinois.edu/directory/profile/colinjb2)
 
-Department of Astronomy
-
-University of Illinois at Urbana–Champaign
-
+Illinois Graduate Survey Science Fellow, National Center for Supercomputing Applications (NCSA).
 
 Research Interests: survey science, active galactic nuclei
 
