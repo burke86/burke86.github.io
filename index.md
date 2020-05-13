@@ -18,6 +18,12 @@ I am working with Dark Energy Survey images to find long-duration variability in
 
 H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [Submitted to MRNAS](https://ui.adsabs.harvard.edu/abs/2020arXiv200310457G/abstract).
 
+We are also using light curves from the Transiting Exoplanet Survey Satellite (TESS) to study the variability of AGN as part of project TEQUILA (Shen et al in prep.) See our work on the variability of the dwarf AGN NGC 4395.
+
+![ngc4395](https://user-images.githubusercontent.com/13906989/81778379-5dfd5c00-94b8-11ea-91a7-0e610a0fb5ea.png)
+
+**C. J. Burke**, Y. Shen, Y.-C. Chen, S. Scaringi, C. A. Faucher-Giguere, X. Liu, and Q. Yang. "Optical Variability of the Dwarf AGN NGC 4395 from the Transiting Exoplanet Survey Satellite." [Submitted to ApJ](https://ui.adsabs.harvard.edu/abs/2020arXiv200504491B/abstract).
+
 Stay tuned for exciting new results!
 
 ### Other Time-Domian Astrophysics
