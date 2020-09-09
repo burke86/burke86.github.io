@@ -16,7 +16,7 @@ I am working with Dark Energy Survey images to find variability in low-mass gala
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
-H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [MNRAS 496, 3636 (2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
+H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [MNRAS 496, 3636 (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
 We are also using light curves from the Transiting Exoplanet Survey Satellite (TESS) to study the variability of AGNs as part of project TEQUILA (Shen et al in prep.) See our work on the variability of the dwarf AGN NGC 4395.
 
@@ -28,13 +28,13 @@ Stay tuned for exciting new results!
 
 ### Other Time-Domian Astrophysics
 
-During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Dr. Vivienne Baldassare to solve the mystery of this perplexing galaxy. We concluded the variability, despite appearing similar to that of an AGN, is actually due to a massive outburst of a luminous blue variable star, resmbing the Type IIn supernova-like event of SDSS1133.
+During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Dr. Vivienne Baldassare to study this perplexing dwarf galaxy. Using data we obtained from the Gemini obesrvatory, we found the unusually-luminous broad Balmer emission has begun to fade away in recent years. We concluded the variability, despite appearing similar to that of an AGN, is actually likely due to a massive outburst of a luminous blue variable star, resmbing the Type IIn supernova-like event of SDSS1133. Our observations ruled-out some intepretations put-forth in previous papers.
 
 ![phl 293b image](https://user-images.githubusercontent.com/13906989/79822610-3272d000-8357-11ea-9e21-fcd6777e662c.png)
 
 ![phl 293b spectra](https://user-images.githubusercontent.com/13906989/79822723-7b2a8900-8357-11ea-8879-e4af3af82d6a.png)
 
-**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, G. Hengxiao, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters 894, L5 (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200212369B/abstract}).
+**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, G. Hengxiao, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters 894, L5 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...894L...5B/abstract}).
 
 ### Machine Learning 
 
@@ -52,25 +52,15 @@ I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Pur
 
 I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators at the University of Arizona. I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
 
-![image](https://user-images.githubusercontent.com/13906989/36521126-1ab6aa8e-1763-11e8-8855-387c871b4ca8.png)
-
-JWST/NIRCam SW (left) and LW (right) channel optical models in PhoSim. Rays from a star are shown propogating through the telescope mirrors, camera lenses, filter, and the focal plane.
-
 ![image](https://user-images.githubusercontent.com/13906989/36521061-c1494042-1762-11e8-85d5-f518a3571f89.png)
 
-Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim.
+Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim. Rays are shown propogating through the camera's mirrors, lenses, dichroic filter, and two focal planes.
 
 See our [PhoSim-NIRCam paper](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-3/038002/PhoSim-NIRCam--photon-by-photon-image-simulations-of-the/10.1117/1.JATIS.5.3.038002.short?SSO=1) for details.
 
 ### WIYN 3.5-meter Telescope
 
-I completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. As part of our analysisss, I modeled the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics:
-
-![wiyn](https://user-images.githubusercontent.com/13906989/39836036-1bb9fb6a-53a0-11e8-8c9e-3c8d03ae5167.png)
-
-Image of the WIYN 3.5-meter Telescope PhoSim model. Rays from a star are shown propogating through the telescope mirrors, camera lenses and atmospheric dispersion corrector, filter, and the partially-populated ODI focal plane.
-
-See our [paper on deformation of optics for photon Monte Carlo simulations](https://iopscience.iop.org/article/10.3847/1538-4357/ab0418).
+I completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. As part of our work, I performed initial modeling the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics in PhoSim. See our [paper on deformation of optics for photon Monte Carlo simulations](https://iopscience.iop.org/article/10.3847/1538-4357/ab0418).
 
 
 # Outreach
