@@ -12,17 +12,17 @@ Advisor: Professor Xin Liu
 
 ### Low-mass AGN Variability
 
-I am working with Dark Energy Survey images to find long-duration variability in low-mass galaxies. The variability-selection technique has several advantages, such as finding AGN misssed by traditional techniques. See our paper on the lowest-mass AGN found from optical at redshift 0.82.
+I am working with Dark Energy Survey images to find variability in low-mass galaxies. The variability-selection technique has several advantages, such as finding AGNs with smaller supermassive black holes than other methods. See our paper on the lowest-mass AGN found from optical imaging at redshift 0.82.
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
-H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [Submitted to MRNAS](https://ui.adsabs.harvard.edu/abs/2020arXiv200310457G/abstract).
+H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [MNRAS 496, 3636 (2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
-We are also using light curves from the Transiting Exoplanet Survey Satellite (TESS) to study the variability of AGN as part of project TEQUILA (Shen et al in prep.) See our work on the variability of the dwarf AGN NGC 4395.
+We are also using light curves from the Transiting Exoplanet Survey Satellite (TESS) to study the variability of AGNs as part of project TEQUILA (Shen et al in prep.) See our work on the variability of the dwarf AGN NGC 4395.
 
-![ngc4395](https://user-images.githubusercontent.com/13906989/81778379-5dfd5c00-94b8-11ea-91a7-0e610a0fb5ea.png)
+![ngc4395](https://user-images.githubusercontent.com/13906989/92552071-6460d200-f225-11ea-99a2-311871f01b69.png)
 
-**C. J. Burke**, Y. Shen, Y.-C. Chen, S. Scaringi, C. A. Faucher-Giguere, X. Liu, and Q. Yang. "Optical Variability of the Dwarf AGN NGC 4395 from the Transiting Exoplanet Survey Satellite." [Submitted to ApJ](https://ui.adsabs.harvard.edu/abs/2020arXiv200504491B/abstract).
+**C. J. Burke**, Y. Shen, Y.-C. Chen, S. Scaringi, C. A. Faucher-Giguere, X. Liu, and Q. Yang. "Optical Variability of the Dwarf AGN NGC 4395 from the Transiting Exoplanet Survey Satellite." [ApJ 899, 136 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..136B/abstract).
 
 Stay tuned for exciting new results!
 
@@ -34,7 +34,7 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 
 ![phl 293b spectra](https://user-images.githubusercontent.com/13906989/79822723-7b2a8900-8357-11ea-8879-e4af3af82d6a.png)
 
-**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, G. Hengxiao, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters accepted (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200212369B/abstract}).
+**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, G. Hengxiao, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters 894, L5 (2020)](https://ui.adsabs.harvard.edu/abs/2020arXiv200212369B/abstract}).
 
 ### Machine Learning 
 
