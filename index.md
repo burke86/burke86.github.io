@@ -4,7 +4,7 @@ Illinois Graduate Survey Science Fellow 2019-2021, National Center for Supercomp
 
 Research Interests: survey science, active galactic nuclei
 
-[Curriculum Vitae](CV_updated.pdf) (updated April 2020)
+[Curriculum Vitae](CV.pdf) (updated Febuary 2021)
 
 Advisor: Professor Xin Liu
 
