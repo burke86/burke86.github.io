@@ -40,6 +40,8 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 
 I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation.
 
+[Watch MINERVA (Paris Observatory) Seminar](https://youtu.be/_4n_iTXbPrk)
+
 ![astro r-cnn](https://user-images.githubusercontent.com/13906989/79823446-7961c500-8359-11ea-8388-536e318309f2.png)
 
 **C. J. Burke**, P. D. Aleo, X. Liu, J. R. Peterson, G. H. Sembroski, Y.-C. Chen, Y.-Y. Lin. "Deblending and Classifying Astronomical Sources with Mask R-CNN Deep Learning." [MNRAS 490, 3953 (2019)](https://doi.org/10.1093/mnras/stz2845).
