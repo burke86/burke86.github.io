@@ -2,7 +2,7 @@ Illinois Graduate Survey Science Fellow 2019-2021, National Center for Supercomp
 
 [UIUC page](https://astro.illinois.edu/directory/profile/colinjb2)
 
-Research Interests: survey science, active galactic nuclei
+Research Interests: survey science (transients, variability, time series analysis), active galactic nuclei, intermediate-mass black holes, machine learning applications in astronomy
 
 [Curriculum Vitae](CV.pdf) (updated Febuary 2021)
 
