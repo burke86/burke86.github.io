@@ -21,9 +21,9 @@ We are also using light curves from the Transiting Exoplanet Survey Satellite (T
 
 Stay tuned for exciting new results!
 
-### Other Time-Domian Astrophysics
+### Other Time-Domain Astrophysics
 
-During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Prof. Vivienne Baldassare to study this perplexing dwarf galaxy. Using data we obtained from the Gemini obesrvatory, we found the unusually-luminous broad Balmer emission has begun to fade away in recent years. We concluded the variability, despite appearing similar to that of an AGN, is actually likely due to a massive outburst of a luminous blue variable star, resembling the transient event SDSS1133. Our observations ruled-out some intepretations put-forth in previous papers.
+During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Prof. Vivienne Baldassare to study this perplexing dwarf galaxy. Using data we obtained from the Gemini Observatory, we found the unusually-luminous broad Balmer emission has begun to fade away in recent years. We concluded the variability, despite appearing similar to that of an AGN, is actually likely due to a massive outburst of a luminous blue variable star, resembling the transient event SDSS1133. Our observations ruled-out some interpretations put-forth in previous papers.
 
 ![phl 293b image](https://user-images.githubusercontent.com/13906989/79822610-3272d000-8357-11ea-9e21-fcd6777e662c.png)
 
@@ -44,13 +44,13 @@ I worked with fellow graduate student Patrick Aleo to adapt a new machine learni
 
 ## Undergraduate Work
 
-I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Purdue for over three years, developing and improving the [Photon Simulator (PhoSim)](https://bitbucket.org/phosim/phosim_release/wiki/Home) software for use with modeling a variety of telescopes, including the James Webb Space Telescope, the Large Synoptic Survey Telescope, and the WIYN 3.5-meter telescope. Our goal is for these physics-based models to help better-contrain [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) studies as well as providing high-fidelity mock data to test image pipelines.
+I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Purdue for over three years, developing and improving the [Photon Simulator (PhoSim)](https://bitbucket.org/phosim/phosim_release/wiki/Home) software for use with modeling a variety of telescopes, including the James Webb Space Telescope, the Large Synoptic Survey Telescope, and the WIYN 3.5-meter telescope. Our goal is for these physics-based models to help better-constrain [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) studies as well as providing high-fidelity mock data to test image pipelines.
 
 I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators at the University of Arizona. I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
 
 ![image](https://user-images.githubusercontent.com/13906989/36521061-c1494042-1762-11e8-85d5-f518a3571f89.png)
 
-Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim. Rays are shown propogating through the camera's mirrors, lenses, dichroic filter, and two focal planes.
+Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim. Rays are shown propagating through the camera's mirrors, lenses, dichroic filter, and two focal planes.
 
 See our [PhoSim-NIRCam paper](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-3/038002/PhoSim-NIRCam--photon-by-photon-image-simulations-of-the/10.1117/1.JATIS.5.3.038002.short?SSO=1) for details.
 
@@ -78,4 +78,3 @@ Media Links:
 ["Purdue club to provide Indiana students, TSC 6th graders eclipse glasses", WLFI News](http://wlfi.web.franklyinc.com/story/36167949/purdue-club-to-provide-indiana-students-6th-grade-tsc-students-eclipse-glasses)
 
 ["Solar Eclipse 2017", The Purdue Review](http://www.purduereview.com/campus/solar-eclipse-2017/)
-
