@@ -6,13 +6,11 @@ Research Interests: survey science, active galactic nuclei
 
 [Curriculum Vitae](CV.pdf) (updated Febuary 2021)
 
-Advisor: Professor Xin Liu
-
 # Research
 
 ### Low-mass AGN Variability
 
-I am working with Dark Energy Survey images to find variability in low-mass galaxies. The variability-selection technique has several advantages, such as finding AGNs with smaller supermassive black holes than other methods. See our paper on the lowest-mass AGN found from optical imaging at redshift 0.82.
+I am working with Dark Energy Survey images to find variability in dwarf galaxies. The variability-selection technique has several advantages, such as finding AGNs with smaller supermassive black holes than other methods. See our paper on the lowest-mass AGN found from optical imaging at redshift 0.82.
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
@@ -28,7 +26,7 @@ Stay tuned for exciting new results!
 
 ### Other Time-Domian Astrophysics
 
-During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Dr. Vivienne Baldassare to study this perplexing dwarf galaxy. Using data we obtained from the Gemini obesrvatory, we found the unusually-luminous broad Balmer emission has begun to fade away in recent years. We concluded the variability, despite appearing similar to that of an AGN, is actually likely due to a massive outburst of a luminous blue variable star, resmbing the Type IIn supernova-like event of SDSS1133. Our observations ruled-out some intepretations put-forth in previous papers.
+During our search, we also found a peculiar long-lived stellar transient in the metal-poor galaxy PHL 293B. I collaborated with Prof. Vivienne Baldassare to study this perplexing dwarf galaxy. Using data we obtained from the Gemini obesrvatory, we found the unusually-luminous broad Balmer emission has begun to fade away in recent years. We concluded the variability, despite appearing similar to that of an AGN, is actually likely due to a massive outburst of a luminous blue variable star, resembling the transient event SDSS1133. Our observations ruled-out some intepretations put-forth in previous papers.
 
 ![phl 293b image](https://user-images.githubusercontent.com/13906989/79822610-3272d000-8357-11ea-9e21-fcd6777e662c.png)
 
@@ -38,7 +36,7 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 
 ### Machine Learning 
 
-I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation.
+I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation. I have also had the privilege of mentoring and advising two undergraduate students, Anshul Shah ([view SPIN poster](https://nbviewer.jupyter.org/github/burke86/burke86.github.io/blob/master/SPIN_Poster.pdf)) and Yufeng Liu, through the NCSA SPIN research program.
 
 [Watch MINERVA (Paris Observatory) Seminar](https://youtu.be/_4n_iTXbPrk)
 
@@ -46,11 +44,10 @@ I worked with fellow graduate student Patrick Aleo to adapt a new machine learni
 
 **C. J. Burke**, P. D. Aleo, X. Liu, J. R. Peterson, G. H. Sembroski, Y.-C. Chen, Y.-Y. Lin. "Deblending and Classifying Astronomical Sources with Mask R-CNN Deep Learning." [MNRAS 490, 3953 (2019)](https://doi.org/10.1093/mnras/stz2845).
 
+
 ## Undergraduate Work
 
 I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Purdue for over three years, developing and improving the [Photon Simulator (PhoSim)](https://bitbucket.org/phosim/phosim_release/wiki/Home) software for use with modeling a variety of telescopes, including the James Webb Space Telescope, the Large Synoptic Survey Telescope, and the WIYN 3.5-meter telescope. Our goal is for these physics-based models to help better-contrain [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) studies as well as providing high-fidelity mock data to test image pipelines.
-
-### James Webb Space Telescope
 
 I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators at the University of Arizona. I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
 
@@ -60,14 +57,12 @@ Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim. Ra
 
 See our [PhoSim-NIRCam paper](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-3/038002/PhoSim-NIRCam--photon-by-photon-image-simulations-of-the/10.1117/1.JATIS.5.3.038002.short?SSO=1) for details.
 
-### WIYN 3.5-meter Telescope
-
-I completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. As part of our work, I performed initial modeling the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics in PhoSim. See our [paper on deformation of optics for photon Monte Carlo simulations](https://iopscience.iop.org/article/10.3847/1538-4357/ab0418).
+I also completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. As part of our work, I performed initial modeling the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics in PhoSim. See our [paper on deformation of optics for photon Monte Carlo simulations](https://iopscience.iop.org/article/10.3847/1538-4357/ab0418).
 
 
 # Outreach
 
-## ["Great American Solar Eclipse" of 2017](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017)
+["Great American Solar Eclipse" of 2017](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017)
 
 I lead an effort with [eclipse2017.org](www.eclipse2017.org), Dr. David Sederberg, and the Purdue Astronomy Club to distribute 10,000 solar eclipse glasses to local schools, libraries, and students. We wrote grants, rallied volunteers, and gathered our solar-filtered telescopes to get the most out of the partial eclipse.
 
