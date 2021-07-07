@@ -1,11 +1,11 @@
-Illinois Graduate Survey Science Fellow 2019-2021, National Center for Supercomputing Applications (NCSA).
+Illinois Graduate Survey Science Fellow 2019-2022, National Center for Supercomputing Applications (NCSA).
 
 Research Interests: survey science (transients, variability, time series analysis), active galactic nuclei, intermediate-mass black holes, machine learning applications in astronomy
 
 
 # Research
 
-### Low-mass AGN Variability
+### Dwarf AGN Variability
 
 I am working with Dark Energy Survey images to find variability in dwarf galaxies. The variability-selection technique has several advantages, such as finding AGNs with smaller supermassive black holes than other methods. See our paper on the lowest-mass AGN found from optical imaging at redshift 0.82.
 
