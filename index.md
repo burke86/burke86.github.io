@@ -35,7 +35,7 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 
 ### Machine Learning 
 
-I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation. I have also had the privilege of mentoring and advising two undergraduate students, Anshul Shah ([view SPIN poster](https://nbviewer.jupyter.org/github/burke86/burke86.github.io/blob/master/assets/SPIN_Poster.pdf)) and Yufeng Liu, through the NCSA SPIN research program.
+I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation. I have also had the privilege of mentoring and advising two undergraduate students, Anshul Shah ([view SPIN poster](https://nbviewer.jupyter.org/github/burke86/burke86.github.io/blob/master/assets/SPIN_Poster.pdf)) and Yufeng Liu, through the [NCSA SPIN](http://spin.ncsa.illinois.edu/) research program.
 
 [Watch MINERVA (Paris Observatory) Seminar](https://youtu.be/_4n_iTXbPrk)
 
