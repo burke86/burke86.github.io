@@ -1,6 +1,6 @@
 Illinois Graduate Survey Science Fellow 2019-2022, National Center for Supercomputing Applications (NCSA).
 
-Research Interests: survey science (transients, variability, time series analysis), active galactic nuclei, intermediate-mass black holes, machine learning applications in astronomy
+Research Interests: survey science (transients, variability, time series analysis), [active galactic nuclei](https://en.wikipedia.org/wiki/Active_galactic_nucleus), [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), machine learning applications in astronomy
 
 
 # Research
