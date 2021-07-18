@@ -1,0 +1,45 @@
+<html><head><script type="application/ld+json">
+{
+"@context": "http://www.schema.org",
+"@type": "Person",
+"@id": "https://burke86.github.io/",
+"name": "Colin Burke",
+"alternateName": "Colin J. Burke",
+"nationality": "Canadian-American",
+"affiliation": [
+	{
+		"@type": "Organization",
+		"name": "University of Illinois at Urbana-Champaign",
+		"sameAs": [
+			"https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign",
+			"https://illinois.edu/",
+      "https://astro.illinois.edu/"
+		]
+  	}
+],
+"alumniOf": [
+	{
+	 "@type": "CollegeOrUniversity",
+	 "name": "Purdue University",
+	 "sameAs": "https://en.wikipedia.org/wiki/Purdue_University"
+	}
+],
+"gender": "Male",
+"Description": "Researcher",
+"disambiguatingDescription": "Astronomer",
+"jobTitle": "Astronomer",
+"url": "https://burke86.github.io",
+"image": "https://user-images.githubusercontent.com/13906989/34473492-7a645a8e-ef41-11e7-94dd-cf60418ffd89.jpg",
+"address": {
+	"@type": "1002 W. Green Street",
+	"addressLocality": "Urbana",
+	"addressRegion": "IL",
+	"addressCountry": "USA"
+},
+"sameAs": [
+	"https://astro.illinois.edu/directory/profile/colinjb2",
+	"http://www.ncsa.illinois.edu/assets/php/directory/contact.php?contact=colinjb2",
+	"https://www.linkedin.com/in/colinburkej"
+	]
+}
+</script></head><body></body></html>
