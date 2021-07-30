@@ -9,7 +9,7 @@ Research Interests: survey science (transients, variability, time series analysi
 
 I am working with optical imaging surveys to find and study variability in dwarf galaxies. See our paper on a low-mass AGN identified from optical imaging at redshift 0.82.
 
-[Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525)
+<!--- [Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525) --->
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
