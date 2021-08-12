@@ -63,7 +63,7 @@ I also completed multiple nights of observations at the WIYN 3.5-meter Telescope
 
 # Outreach
 
-["Great American Solar Eclipse" of 2017](https://en.wikipedia.org/wiki/Solar_eclipse_of_August_21,_2017)
+### "Great American Solar Eclipse" of 2017
 
 I lead an effort with [eclipse2017.org](www.eclipse2017.org), Dr. David Sederberg, and the Purdue Astronomy Club to distribute 10,000 solar eclipse glasses to local schools, libraries, and students. We wrote grants, rallied volunteers, and gathered our solar-filtered telescopes to get the most out of the partial eclipse.
 
@@ -82,3 +82,7 @@ Media Links:
 ["Purdue club to provide Indiana students, TSC 6th graders eclipse glasses", WLFI News](http://wlfi.web.franklyinc.com/story/36167949/purdue-club-to-provide-indiana-students-6th-grade-tsc-students-eclipse-glasses)
 
 ["Solar Eclipse 2017", The Purdue Review](http://www.purduereview.com/campus/solar-eclipse-2017/)
+
+### Accretion Disk Flickering Sonified
+
+["Listen to a black hole"](https://youtu.be/gczSnUDoYDM)
