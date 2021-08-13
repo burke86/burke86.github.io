@@ -5,25 +5,24 @@ Research Interests: survey science (transients, variability, time series analysi
 
 # Research
 
-### Dwarf AGN Variability
+### AGN Variability
 
-I am working with optical imaging surveys to find and study variability in dwarf galaxies. See our paper on a low-mass AGN identified from optical imaging at redshift 0.82.
+I use optical imaging surveys to study the variability (or "flickering") of active galactic nuclei (AGNs) and gain new insights into their central engines. I am particularly interested in AGNs in dwarf galaxies which may harbor intermediate-mass black holes. Our recent work establishes a mass-timescale relation, whereby AGN variability can be used to estimate the mass of the central black hole. It was receently published in the journal _Science_ (also see articles in [_Popular Science_](https://www.popsci.com/space/weigh-black-hole/), [_Science News_](https://www.sciencenews.org/article/black-holes-mass-measure-new-technique-accretion-disk), and [_space.com_](https://www.space.com/black-hole-feeding-pattern-mass-size)): [**C. J. Burke**, et al. Science 373, 6556 (2021)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
-<!--- [Watch TESS Science Conference Talk](https://youtu.be/33FQlKT_NSs?t=4719) --->
+[Watch TESS Science Conference II Talk](https://youtu.be/33FQlKT_NSs?t=4719)
 
-<!--- [Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525) --->
+[Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525)
+
+
+Also see our paper on a low-mass AGN identified from optical imaging at redshift 0.82: [H. Guo, **C. J. Burke**, et al. MNRAS 496, 3636 (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
-H. Guo, **C. J. Burke**, X. Liu, K. A. Phadke, K. Zhang, Y.-C. Chen, C. Lidman, Y. Shen, and DES Collaboration. "Dark Energy Survey Identification of a low-mass Active Galactic Nucleus at Redshift 0.82 from Optical Variability." [MNRAS 496, 3636 (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
-We are also using light curves from the Transiting Exoplanet Survey Satellite (TESS) to study the variability of AGNs as part of project TEQUILA (Shen et al in prep.) See our work on the variability of the dwarf AGN NGC 4395.
+We are also using light curves from the Transiting Exoplanet Survey Satellite (TESS) to study the variability of AGNs. See our work on the variability of the dwarf AGN NGC 4395: [**C. J. Burke** et al. ApJ 899, 136 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..136B/abstract).
 
 ![ngc4395](https://user-images.githubusercontent.com/13906989/92552071-6460d200-f225-11ea-99a2-311871f01b69.png)
 
-**C. J. Burke**, Y. Shen, Y.-C. Chen, S. Scaringi, C. A. Faucher-Giguere, X. Liu, and Q. Yang. "Optical Variability of the Dwarf AGN NGC 4395 from the Transiting Exoplanet Survey Satellite." [ApJ 899, 136 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..136B/abstract).
-
-Stay tuned for exciting new results!
 
 ### Other Time-Domain Astrophysics
 
