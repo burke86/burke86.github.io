@@ -7,7 +7,9 @@ Research Interests: survey science (transients, variability, time series analysi
 
 ### AGN Variability
 
-I use optical imaging surveys to study the variability (or "flickering") of active galactic nuclei (AGNs) and gain new insights into their central engines. I am particularly interested in AGNs in dwarf galaxies which may harbor intermediate-mass black holes. Our recent work establishes a mass-timescale relation, whereby AGN variability can be used to estimate the mass of the central black hole. It was receently published in the journal _Science_ (also see articles in [_Popular Science_](https://www.popsci.com/space/weigh-black-hole/), [_Science News_](https://www.sciencenews.org/article/black-holes-mass-measure-new-technique-accretion-disk), and [_space.com_](https://www.space.com/black-hole-feeding-pattern-mass-size)): [**C. J. Burke**, et al. Science 373, 6556 (2021)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
+I use optical imaging surveys to study the variability (or "flickering") of active galactic nuclei (AGNs) and gain new insights into their central engines. I am particularly interested in AGNs in dwarf galaxies which may harbor intermediate-mass black holes. Our recent work establishes a mass-timescale relation, whereby AGN variability can be used to estimate the mass of the central black hole. It was recently published in the journal _Science_ (also see articles in [_Popular Science_](https://www.popsci.com/space/weigh-black-hole/), [_Science News_](https://www.sciencenews.org/article/black-holes-mass-measure-new-technique-accretion-disk), and [_space.com_](https://www.space.com/black-hole-feeding-pattern-mass-size)):
+
+[**C. J. Burke** et al. Science (2021)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
 [Watch TESS Science Conference II Talk](https://youtu.be/33FQlKT_NSs?t=4719)
 
