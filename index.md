@@ -9,19 +9,24 @@ Research Interests: survey science (transients, variability, time series analysi
 
 I use optical imaging surveys to study the variability (or "flickering") of active galactic nuclei (AGNs) and gain new insights into their central engines. Our recent work establishes a mass-timescale relation, whereby AGN variability can be used to estimate the mass of the central black hole. It was published in the journal _Science_ (also see articles in [_Popular Science_](https://www.popsci.com/space/weigh-black-hole/), [_Science News_](https://www.sciencenews.org/article/black-holes-mass-measure-new-technique-accretion-disk), and [_space.com_](https://www.space.com/black-hole-feeding-pattern-mass-size)):
 
-[**C. J. Burke** et al. Science (2021)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
+[C. J. Burke et al. _Science_ 373(6556), 789 (2021)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
+
+![Accretion Disk Flickering Animation](assets/ad_anim.gif)
+
+Image Credit: Mark A. Garlick/Simons Foundation
+
 
 [Watch TESS Science Conference II Talk](https://youtu.be/33FQlKT_NSs?t=4719)
 
 [Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525)
 
 
-I am particularly interested in AGNs in dwarf galaxies which may harbor intermediate-mass black holes. See our paper on a low-mass AGN identified from optical imaging at redshift 0.82: [H. Guo, **C. J. Burke**, et al. MNRAS 496, 3636 (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
+I am particularly interested in AGNs in dwarf galaxies which may harbor intermediate-mass black holes. See our paper on a low-mass AGN identified from optical imaging at redshift 0.82: [H. Guo, C. J. Burke, et al. _MNRAS_ 496, 3636 (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
 
 ![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
 
 
-Also see our work on the variability of the "poster-child" dwarf AGN NGC 4395: [**C. J. Burke** et al. ApJ 899, 136 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..136B/abstract).
+Also see our work on the variability of the "poster-child" dwarf AGN NGC 4395: [C. J. Burke et al. _ApJ_ 899, 136 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..136B/abstract).
 
 ![ngc4395](https://user-images.githubusercontent.com/13906989/92552071-6460d200-f225-11ea-99a2-311871f01b69.png)
 
