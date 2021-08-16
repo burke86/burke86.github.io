@@ -9,7 +9,7 @@ Research Interests: survey science (transients, variability, time series analysi
 
 I use optical imaging surveys to study the variability (or "flickering") of active galactic nuclei (AGNs) and gain new insights into their central engines. Our recent work establishes a mass-timescale relation, whereby AGN variability can be used to estimate the mass of the central black hole. It was published in the journal _Science_ (also see articles in [_Popular Science_](https://www.popsci.com/space/weigh-black-hole/), [_Science News_](https://www.sciencenews.org/article/black-holes-mass-measure-new-technique-accretion-disk), and [_space.com_](https://www.space.com/black-hole-feeding-pattern-mass-size)):
 
-[C. J. Burke et al. _Science_ 373(6556), 789 (2021)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
+[C. J. Burke et al. _Science_ 373(6556), 789 (2021)](https://science.sciencemag.org/content/373/6556/789).
 
 ![Accretion Disk Flickering Animation](assets/ad_anim.gif)
 
