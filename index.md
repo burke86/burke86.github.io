@@ -16,7 +16,7 @@ I use optical imaging surveys to study the variability (or "flickering") of acti
 Image Credit: Mark A. Garlick/Simons Foundation
 
 
-[Watch TESS Science Conference II Talk](https://youtu.be/33FQlKT_NSs?t=4719)
+[Watch TESS Science Conference II Talk](https://youtu.be/33FQlKT_NSs?t=4113)
 
 [Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525)
 
