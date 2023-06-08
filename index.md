@@ -1,4 +1,8 @@
+Home | Research | Outreach
 
+# About Me
+
+I am an observational astronomer working on problems related to supermassive black hole formation and evolution, [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), and [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) variability. I completed my PhD at the University of Illinois Urbana-Champaign in 2023. In August 2023, I will begin an NSF Astronomy & Astrophysics Postdoctoral Fellowship at Yale University. 
 
 Research Interests: survey science (transients, variability, time series analysis), [active galactic nuclei](https://en.wikipedia.org/wiki/Active_galactic_nucleus), [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), machine learning applications in astronomy
 
