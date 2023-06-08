@@ -1,4 +1,4 @@
-Home | Research | Outreach
+Home | Research | Outreach | Talks
 
 # About Me
 
