@@ -4,10 +4,13 @@ Home | Research | Outreach | Talks
 
 I am an observational astronomer working on problems related to supermassive black hole formation and evolution, [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), and [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) variability. I completed my PhD at the University of Illinois Urbana-Champaign in 2023. In August 2023, I will begin an NSF Astronomy & Astrophysics Postdoctoral Fellowship at Yale University. 
 
-Research Interests: survey science (transients, variability, time series analysis), [active galactic nuclei](https://en.wikipedia.org/wiki/Active_galactic_nucleus), [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), machine learning applications in astronomy
 
+# Intermediate-mass black holes
 
-# Research
+Intermediate-mass black holes (IMBHs) had to exist at some point in cosmic time to form the observed population of supermassive black holes.
+
+![Observed black hole mass spectrum](assets/bh_mass_det_spectrum.jpg)
+Figure Caption: The observed mass spectrum of black holes.
 
 ### AGN Variability
 
