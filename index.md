@@ -10,7 +10,7 @@ I am an observational astronomer working on problems related to supermassive bla
 Intermediate-mass black holes (IMBHs) had to exist at some point in cosmic time to form the observed population of supermassive black holes.
 
 ![Observed black hole mass spectrum](assets/bh_mass_det_spectrum.jpg)
-Figure Caption: The observed mass spectrum of black holes.
+<sub>__Figure Caption:__ The observed mass spectrum of black holes.<sub>
 
 ### AGN Variability
 
