@@ -2,7 +2,7 @@
 
 # About Me
 
-I am an observational astronomer working on problems related to supermassive black hole formation and evolution, [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), and [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) variability. I completed my PhD at the University of Illinois Urbana-Champaign in 2023. In August 2023, I will begin an NSF Astronomy & Astrophysics Postdoctoral Fellowship at Yale University. 
+I am an observational astronomer working on problems related to supermassive black hole formation and evolution, the population of [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), and [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) accretion. I completed my PhD at the University of Illinois Urbana-Champaign in 2023. In August 2023, I will begin an NSF Astronomy & Astrophysics Postdoctoral Fellowship at Yale University. 
 
 
 # Intermediate-mass black holes
