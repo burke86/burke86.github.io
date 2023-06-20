@@ -19,6 +19,6 @@ I study the variability or "flickering" of active galactic nuclei (AGNs) and gai
 
 ![Accretion Disk Flickering Animation](assets/ad_anim.gif)
 
-<sub>__Figure Caption:__ Artistic animation of an AGN accretion disk (Image Credit: Mark A. Garlick/Simons Foundation)<sub>
+<sub>__Figure Caption:__ Artistic animation of an AGN accretion disk (Image Credit: Mark A. Garlick/Simons Foundation).<sub>
 
 Click on the tabs at the top of the page to learn more.
