@@ -1,4 +1,4 @@
-[About Me](/about.md) | [Research](/research.md) | [Outreach](/research.md) | [__Talks__](/talks.md)
+[About Me](/about.md) | [Research](/research.md) | [Outreach](/outreach.md) | [__Talks__](/talks.md)
 
 # Talks
 
