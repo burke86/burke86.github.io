@@ -1,7 +1,5 @@
 [About Me](/about.md) | [Research](/research.md) | [__Outreach__](/outreach.md) | [Talks](/talks.md)
 
-# Outreach
-
 ### Broader Impacts
 
 As an NSF AAPF postdoctoral fellow, I will lead a outreach program to expose local high school students to data science in astronomy.
