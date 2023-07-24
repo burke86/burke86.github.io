@@ -1,8 +1,8 @@
 [About Me](/about.md) | [__Research__](/research.md) | [Outreach](/outreach.md) | [Talks](/talks.md)
 
-# Research
+## Overview
 
-# Intermediate-mass black holes
+## Intermediate-mass black holes
 
 Intermediate-mass black holes (IMBHs) had to exist at some point in cosmic time to form the observed population of supermassive black holes.
 
