@@ -2,6 +2,8 @@
 
 ## Overview
 
+How did supermassive black holes form at high redshift, grow over cosmic time, and come to occupy virtually every massive galaxy in the nearby universe? In order to answer these questions, I study the black hole population using *accretion signatures*, like optical variability, in large survey data. This presents new opportunities to study active galaclic nuclei (AGN), the origin of AGN variability, and physics of black hole accretion.
+
 ## Intermediate-mass black holes
 
 Intermediate-mass black holes (IMBHs) had to exist at some point in cosmic time to form the observed population of supermassive black holes.
@@ -38,15 +40,17 @@ During our search, we also found a peculiar long-lived stellar transient in the 
 
 ![phl 293b spectra](https://user-images.githubusercontent.com/13906989/79822723-7b2a8900-8357-11ea-8879-e4af3af82d6a.png)
 
-**C. J. Burke**, V. F. Baldassare, X. Liu, R. J. Foley, Y. Shen, A. Palmese, H. Guo, and DES Collaboration. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters 894, L5 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...894L...5B/abstract}).
+**C. J. Burke**, V. F. Baldassare, X. Liu, et al. "The curious case of PHL 293B: A long-lived transient in a metal-poor blue compact dwarf galaxy." [ApJ Letters 894, L5 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...894L...5B/abstract}).
 
 ### Machine Learning 
 
-I worked with fellow graduate student Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation. I have also had the privilege of mentoring and advising two undergraduate students, Anshul Shah ([view SPIN poster](https://nbviewer.jupyter.org/github/burke86/burke86.github.io/blob/master/assets/SPIN_Poster.pdf)) and Yufeng Liu, through the [NCSA SPIN](http://spin.ncsa.illinois.edu/) research program.
+I collaborated with Patrick Aleo to adapt a new machine learning code to classify and deblend sources using the "Mask R-CNN" architecture for image segmentation. I have also had the privilege of mentoring and advising two undergraduate students, Anshul Shah ([view SPIN poster](https://nbviewer.jupyter.org/github/burke86/burke86.github.io/blob/master/assets/SPIN_Poster.pdf)) and Yufeng Liu, through the [NCSA SPIN](http://spin.ncsa.illinois.edu/) research program.
 
 ![astro r-cnn](https://user-images.githubusercontent.com/13906989/79823446-7961c500-8359-11ea-8388-536e318309f2.png)
 
-**C. J. Burke**, P. D. Aleo, X. Liu, J. R. Peterson, G. H. Sembroski, Y.-C. Chen, Y.-Y. Lin. "Deblending and Classifying Astronomical Sources with Mask R-CNN Deep Learning." [MNRAS 490, 3953 (2019)](https://doi.org/10.1093/mnras/stz2845).
+**C. J. Burke**, P. D. Aleo, X. Liu, et al. "Deblending and Classifying Astronomical Sources with Mask R-CNN Deep Learning." [MNRAS 490, 3953 (2019)](https://doi.org/10.1093/mnras/stz2845).
+
+G. M. Merz, Y. Liu, **C. J. Burke**, et al. "Detection, Instance Segmentation, and Classification for Astronomical Surveys with Deep Learning (DeepDISC): Detectron2 Implementation and Demonstration with Hyper Suprime-Cam Data"
 
 
 <!--- ## Undergraduate Work
