@@ -23,22 +23,11 @@ I use optical imaging surveys to study the variability (or "flickering") of acti
 
 Image Credit: Mark A. Garlick/Simons Foundation
 
-
-[Watch TESS Science Conference II Talk](https://youtu.be/33FQlKT_NSs?t=4113)
-
-[Watch LSST AGN Science Collaboration Talk](https://youtu.be/Z2jVOPV_Ra0?t=1525)
-
-[Watch Caltech Seminar](https://youtu.be/dah-HsGfUMk)
-
-
-I am particularly interested in AGNs in dwarf galaxies which may harbor intermediate-mass black holes. See our paper on a low-mass AGN identified from optical imaging at redshift 0.82: [H. Guo, C. J. Burke, et al. _MNRAS_ 496, 3636 (2020)](https://ui.adsabs.harvard.edu/abs/2020MNRAS.496.3636G/abstract).
-
-![0.82 agn light curve](https://user-images.githubusercontent.com/13906989/79822794-a7dea080-8357-11ea-8f72-79e599eddd00.png)
-
-
 Also see our work on the variability of the "poster-child" dwarf AGN NGC 4395: [C. J. Burke et al. _ApJ_ 899, 136 (2020)](https://ui.adsabs.harvard.edu/abs/2020ApJ...899..136B/abstract).
 
 ![ngc4395](https://user-images.githubusercontent.com/13906989/92552071-6460d200-f225-11ea-99a2-311871f01b69.png)
+
+[Watch Caltech Seminar](https://youtu.be/dah-HsGfUMk)
 
 
 ### Other Time-Domain Astrophysics
@@ -62,9 +51,9 @@ I worked with fellow graduate student Patrick Aleo to adapt a new machine learni
 **C. J. Burke**, P. D. Aleo, X. Liu, J. R. Peterson, G. H. Sembroski, Y.-C. Chen, Y.-Y. Lin. "Deblending and Classifying Astronomical Sources with Mask R-CNN Deep Learning." [MNRAS 490, 3953 (2019)](https://doi.org/10.1093/mnras/stz2845).
 
 
-## Undergraduate Work
+<!--- ## Undergraduate Work
 
-I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Purdue for over three years, developing and improving the [Photon Simulator (PhoSim)](https://bitbucket.org/phosim/phosim_release/wiki/Home) software for use with modeling a variety of telescopes, including the James Webb Space Telescope, the Large Synoptic Survey Telescope, and the WIYN 3.5-meter telescope. Our goal is for these physics-based models to help better-constrain [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) studies as well as providing high-fidelity mock data to test image pipelines.
+I worked with [Professor John R. Peterson](https://lsst.rcac.purdue.edu/) at Purdue for over three years, developing and improving the [Photon Simulator (PhoSim)](https://bitbucket.org/phosim/phosim_release/wiki/Home) software for use with modeling a variety of telescopes, including the James Webb Space Telescope, the Large Synoptic Survey Telescope, and the WIYN 3.5-meter telescope. Our goal is for these physics-based models to help better-constrain [weak lensing](https://en.wikipedia.org/wiki/Weak_gravitational_lensing) studies as well as providing high-fidelity mock data to test image pipelines. 
 
 I extended PhoSim's code for use with internal simulations of the Near-Infrared Camera. My work resulted in a small contract for our group from our collaborators at the University of Arizona. I earned the [Richard W. King award](http://www.physics.purdue.edu/about/prizes_awards/undergraduate_awards.html#King) for my work.
 
@@ -74,4 +63,4 @@ Close-up of NIRCam SW (left) and LW (right) channel optical models in PhoSim. Ra
 
 See our [PhoSim-NIRCam paper](https://www.spiedigitallibrary.org/journals/Journal-of-Astronomical-Telescopes-Instruments-and-Systems/volume-5/issue-3/038002/PhoSim-NIRCam--photon-by-photon-image-simulations-of-the/10.1117/1.JATIS.5.3.038002.short?SSO=1) for details.
 
-I also completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. As part of our work, I performed initial modeling the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics in PhoSim. See our [paper on deformation of optics for photon Monte Carlo simulations](https://iopscience.iop.org/article/10.3847/1538-4357/ab0418).
+I also completed multiple nights of observations at the WIYN 3.5-meter Telescope at Kitt Peak National Observatory in Arizona using the One Degree Imager (ODI) instrument. As part of our work, I performed initial modeling the WIYN/ODI optical system in PhoSim, with the goal of calibrating the physics in PhoSim. See our [paper on deformation of optics for photon Monte Carlo simulations](https://iopscience.iop.org/article/10.3847/1538-4357/ab0418). --->
