@@ -11,6 +11,11 @@
 
 ## Statistics
 
+## Texts
+
+- AGN2
+- 
+
 ## Review Papers
 
 - [Massive black holes in galactic nuclei: Observations (Vestergaard & Gültekin 2023)](https://ui.adsabs.harvard.edu/abs/2023arXiv230410233V/abstract)
@@ -23,10 +28,10 @@
 
 - [Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies (Kormendy & Ho 2013)](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..511K/abstract)
 
-## Texts
 
-- AGN2
-- 
+# Lectures
+
+- Neil Brandt's AGN lectures
 
 ## Jobs
 
