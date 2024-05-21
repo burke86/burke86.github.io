@@ -5,6 +5,8 @@
 
 - Scientific Writing and Communication, Angie Hofmann
 
+- [LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
 ## Scientific Computing
 
 - [Python for Astronomers](https://prappleizer.github.io)
