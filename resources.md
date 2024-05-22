@@ -31,9 +31,9 @@
 
 - [Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies (Kormendy & Ho 2013)](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..511K/abstract)
 
-- [Foundations of Black Hole Accretion Disk Theory](https://ui.adsabs.harvard.edu/abs/2013LRR....16....1A/abstract)
+- [Foundations of Black Hole Accretion Disk Theory (Abramowicz & Fragile 2013)](https://ui.adsabs.harvard.edu/abs/2013LRR....16....1A/abstract)
 
-- [Active galactic nuclei: what's in a name?](https://ui.adsabs.harvard.edu/abs/2017A%26ARv..25....2P/abstract)
+- [Active galactic nuclei: what's in a name? (Padovani et al. 2017)](https://ui.adsabs.harvard.edu/abs/2017A%26ARv..25....2P/abstract)
 
 
 ## Lectures
