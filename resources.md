@@ -15,7 +15,7 @@
 
 ## Texts
 
-- Astrophysics Of Gaseous Nebulae And Active Galactic Nuclei (AGN$^2$), Osterbrock & Ferland
+- Astrophysics Of Gaseous Nebulae And Active Galactic Nuclei (AGN^2), Osterbrock & Ferland
 
 - The Physics and Evolution of Active Galactic Nuclei, Netzer
 
