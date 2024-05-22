@@ -15,8 +15,9 @@
 
 ## Texts
 
-- AGN2
-- 
+- Astrophysics Of Gaseous Nebulae And Active Galactic Nuclei (AGN$^2$), Osterbrock & Ferland
+
+- The Physics and Evolution of Active Galactic Nuclei, Netzer
 
 ## Review Papers
 
@@ -31,9 +32,9 @@
 - [Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies (Kormendy & Ho 2013)](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..511K/abstract)
 
 
-# Lectures
+## Lectures
 
-- Neil Brandt's AGN lectures
+- [An Observational Overview of Active Galactic Nuclei (Neil Brandt 2024)](https://youtube.com/playlist?list=PLwQ-l1lnSF63jkuKHFKrN0Ml_Kb0KDF9f&si=HK3BSwohuC1p2wM2)
 
 ## Jobs
 
