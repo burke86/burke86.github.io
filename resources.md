@@ -25,16 +25,15 @@
 
 - [Intermediate-Mass Black Holes (Greene, Strader & Ho 2020)](https://ui.adsabs.harvard.edu/abs/2020ARA%26A..58..257G/abstract)
 
+- [Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies (Kormendy & Ho 2013)](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..511K/abstract)
+
 - [The mass of quasars (Shen 2013)](https://ui.adsabs.harvard.edu/abs/2013BASI...41...61S/abstract)
 
 - [Seeds to monsters: tracing the growth of black holes in the universe (Natarajan 2014)](https://ui.adsabs.harvard.edu/abs/2014GReGr..46.1702N/abstract)
 
-- [Coevolution (Or Not) of Supermassive Black Holes and Host Galaxies (Kormendy & Ho 2013)](https://ui.adsabs.harvard.edu/abs/2013ARA%26A..51..511K/abstract)
-
-- [Foundations of Black Hole Accretion Disk Theory (Abramowicz & Fragile 2013)](https://ui.adsabs.harvard.edu/abs/2013LRR....16....1A/abstract)
+- [Lecture notes on accretion disk physics (Armitage 2022)](https://ui.adsabs.harvard.edu/abs/2013LRR....16....1A/abstract)
 
 - [Active galactic nuclei: what's in a name? (Padovani et al. 2017)](https://ui.adsabs.harvard.edu/abs/2017A%26ARv..25....2P/abstract)
-
 
 ## Lectures
 
