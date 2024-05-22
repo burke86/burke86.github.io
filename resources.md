@@ -1,5 +1,7 @@
 [About Me](/about.md) | [Research](/research.md) | [Outreach](/outreach.md) | [Talks](/talks.md) | [__Resources__](/resources.md)
 
+This is a concise collection of texts, webpages, and lectures that I've found useful in my research or career.
+
 ## Scientific writing
 
 - [The Craft of Writing Effectively (Larry McEnerney)](https://youtu.be/vtIzMaLkCaM?si=3DAR2xzGL5K0vS4i)
