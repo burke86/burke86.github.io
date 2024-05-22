@@ -3,7 +3,7 @@
 
 - [The Craft of Writing Effectively (Larry McEnerney)](https://youtu.be/vtIzMaLkCaM?si=3DAR2xzGL5K0vS4i)
 
-- Scientific Writing and Communication, Angie Hofmann
+- _Scientific Writing and Communication_, Angie Hofmann
 
 - [LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
@@ -15,9 +15,9 @@
 
 ## Texts
 
-- Astrophysics Of Gaseous Nebulae And Active Galactic Nuclei (AGN^2), Osterbrock & Ferland
+- _Astrophysics Of Gaseous Nebulae And Active Galactic Nuclei_ (AGN^2), Osterbrock & Ferland
 
-- The Physics and Evolution of Active Galactic Nuclei, Netzer
+- _The Physics and Evolution of Active Galactic Nuclei_, Netzer
 
 ## Review Papers
 
