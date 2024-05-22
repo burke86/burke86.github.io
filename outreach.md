@@ -1,4 +1,4 @@
-[About Me](/about.md) | [Research](/research.md) | [__Outreach__](/outreach.md) | [Talks](/talks.md)
+[About Me](/about.md) | [Research](/research.md) | [__Outreach__](/outreach.md) | [Talks](/talks.md) | [Resources](/resources.md)
 
 ### Broader Impacts
 
