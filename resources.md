@@ -1,3 +1,4 @@
+[About Me](/about.md) | [Research](/research.md) | [Outreach](/outreach.md) | [Talks](/talks.md) | [__Resources__](/resources.md)
 
 ## Scientific writing
 
