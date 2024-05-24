@@ -16,6 +16,8 @@ This is a concise collection of texts, webpages, and lectures that I've found us
 
 ## Statistics
 
+- [Propogation of error](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Quantifying_Nature/Significant_Digits/Propagation_of_Error)
+
 ## Texts
 
 - _Astrophysics Of Gaseous Nebulae And Active Galactic Nuclei_ (AGN^2), Osterbrock & Ferland
