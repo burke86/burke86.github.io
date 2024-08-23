@@ -14,6 +14,8 @@ This is a concise collection of texts, webpages, and lectures that I've found us
 
 - [Python for Astronomers](https://prappleizer.github.io)
 
+- [Git cheat sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+
 ## Statistics
 
 - [Propogation of error](https://chem.libretexts.org/Bookshelves/Analytical_Chemistry/Supplemental_Modules_(Analytical_Chemistry)/Quantifying_Nature/Significant_Digits/Propagation_of_Error)
