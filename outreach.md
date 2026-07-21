@@ -1,6 +1,8 @@
 [About Me](/about.md) | [Research](/research.md) | [__Outreach__](/outreach.md) | [Talks](/talks.md) | [Resources](/resources.md)
 
-### Broader Impacts
+# Broader Impacts
+
+### Yale Pathways to Science
 
 As an NSF AAPF postdoctoral fellow, I will lead a outreach program to expose local high school students to data science in astronomy.
 
