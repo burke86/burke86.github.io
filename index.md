@@ -2,7 +2,7 @@
 
 # About Me
 
-I am an observational astronomer working on problems related to supermassive black hole formation and evolution, the population of [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), and [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) accretion. In Fall 2026 I will begin as an assistant professor in the Department of Physics, University of North Texas. I am currently an NSF Astronomy & Astrophysics Postdoctoral Fellow in the Department of Astronomy at Yale University. I completed my PhD at the University of Illinois Urbana-Champaign in 2023.
+I am an observational astronomer working on problems related to supermassive black hole formation and evolution, the population of [intermediate-mass black holes](https://en.wikipedia.org/wiki/Intermediate-mass_black_hole), and [AGN](https://en.wikipedia.org/wiki/Active_galactic_nucleus) accretion. I am an Assistant Professor in the Department of Physics at the University of North Texas. Previously, I was an NSF Astronomy & Astrophysics Postdoctoral Fellow in the Department of Astronomy at Yale University. I completed my PhD at the University of Illinois Urbana-Champaign in 2023.
 
 
 ### Intermediate-mass black holes
