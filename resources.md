@@ -52,7 +52,5 @@ This is a concise collection of texts, webpages, and lectures that I've found us
 
 - [Job cycle tips & tricks (Taylor Hutchison)](https://aibhleog.github.io/job-cycle)
 
-- [NHFP equity & mentoring site](https://www.nhfp-equity.org)
-
 - [Rumor mill](https://www.astrobetter.com/wiki/Rumor+Mill)
 
